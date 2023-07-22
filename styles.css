@@ -1,0 +1,102 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#header{
+    background-image: url(image/Background.jpg);
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-evenly;
+}
+
+h1{
+    background: #1D3557;
+}
+
+h2{
+    background: #457B9D;
+    width: 500px;
+}    
+
+h1,h2{
+    margin: 0;
+    color: white;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+#activity{
+    background: #F1FAEE;
+    margin-top: 0px;
+    overflow:hidden
+}
+
+#activities-header{
+    margin: 40px auto;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+.bold{
+    font-weight: bold;
+    width: 250px;
+}
+
+.round{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    
+}
+
+.describe{
+    width: 350px;
+}
+
+.spots{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    height: 400px;
+}
+
+#container-2{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    color: #1D3557;
+    background:#A8DADC;
+    padding: 20px 10px;
+    border-radius:30px;
+    margin: 50px auto;
+    width: 500px;
+    height: 200px;
+    box-shadow: 10px 10px #1D3557;
+}
+
+.self-pic{
+    border-radius:20px;
+}
+
+.italic{
+    font-style: italic;
+}
