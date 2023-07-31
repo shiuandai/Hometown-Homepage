@@ -32,9 +32,9 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use basic H
 
 ## How I start the project?
 
-* Ensure all points are taken into consideration from Figma Template. [Figma Template from Scrimba](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0%3A1&mode=design&t=JhG1UWTiUmIeW14l-1)
-* Having a document where Web Designers and Developers can rely to ensure a better communication and coherence in the way they interact.
-* Because it's easy to forget some important elements when you are pushed by short timelines
+* Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0%3A1&mode=design&t=JhG1UWTiUmIeW14l-1)
+* Having a materials preparation document where I collect pictures/text information/text font/color to match a better visual communication and coherence in one page.
+* It's important to forget some important elements when you are pushed by short timelines
 * Avoid discovering issues after the creative team is already working on another project.
 * To show the complementary work between a Web Designer and a Front-End Developer
 
