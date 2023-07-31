@@ -26,9 +26,9 @@
 
 ---
 
-> The **Design Checklist for Front-End Developers** is an exhaustive list of elements which Web Designers and Front-End Developers need to take into consideration to facilitate their collaboration. The following elements are a mix between known practices and new elements based on a long experience analysing web designs.
+> The **Hometown Homepage** is my first static website which I introduce my hometown spots and the brief information to visitors who can review from and knowing more Taiwan culture. Welcome to contact me if you need a local tour guide.
 
-I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look on the → [My Hometown Homepage](https://github.com/thedaviddias/Front-End-Checklist).
+I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look on the → [My Hometown Homepage](https://shiuandai.github.io/Hometown-Homepage/).
 
 ## How I start the project?
 
