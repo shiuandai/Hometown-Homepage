@@ -8,7 +8,7 @@
 
 ## Table of Contents
 * **[1. Design requirements](#1---design-requirements)**
-	* [1.1 Grid system](#11---grid-system)
+	* [1.1 Structure Design](#11---grid-system)
 	* [1.2 Colors](#12---colors)
 	* [1.3 Fonts and texts](#13---fonts-and-texts)
 	* [1.4 Links and navigation](#14---links-and-navigation)
@@ -46,9 +46,9 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ### 1.1 - Structure design
 
-![Grid system](/images/grid-system.png)
+![Structure design](/images/grid-system.png)
 
-* [ ] A **grid** is explicitly provided in the design, and the details of the grid are present in the technical specification (width, gutters, number of columns…). The Web Designer can keep the grid in a transparent layer and use it on all his project.
+* [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
 	> ℹ️ [Guide Guide][6] is a plugin for Photoshop that can help you easily build your grid.
 
 	> ℹ️ On Sketch, you can use the integrated “[Make Grid Tool][7]” to design your desired grid.
