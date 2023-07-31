@@ -32,7 +32,7 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use basic H
 
 ## How I start the project?
 
-* Ensure all points are taken into consideration by the Creative Team
+* Ensure all points are taken into consideration from Figma Template. [Figma Template from Scrimba](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0%3A1&mode=design&t=JhG1UWTiUmIeW14l-1)
 * Having a document where Web Designers and Developers can rely to ensure a better communication and coherence in the way they interact.
 * Because it's easy to forget some important elements when you are pushed by short timelines
 * Avoid discovering issues after the creative team is already working on another project.
@@ -42,7 +42,7 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use basic H
 
 ## 1. - Design requirements
 
-Designing a website or a webapp requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
+Designing a homwtown homepage website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
 
 ### 1.1 - Grid system
 
