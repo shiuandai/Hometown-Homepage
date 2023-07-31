@@ -28,17 +28,9 @@
 
 > The **Design Checklist for Front-End Developers** is an exhaustive list of elements which Web Designers and Front-End Developers need to take into consideration to facilitate their collaboration. The following elements are a mix between known practices and new elements based on a long experience analysing web designs.
 
-In case you are looking for a list of all elements you need to have/to test before launching your site/HTML page to production, take a look on the → [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
+I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look on the → [My Hometown Homepage](https://github.com/thedaviddias/Front-End-Checklist).
 
-
-## How to use the Design Checklist?
-
-When comes the moment where developers discover new web designs, before converting them to code, some important elements may be missing. The Front-End Design Checklist is a tool for Front-End developers and Web Designers which aim to help both to work in a seamlessly way.
-
-You can share that checklist to Web Designers to ensure time will be saved at the delivery time or you can use it to review all elements delivered by the creative team and ensure everything is correct before digging into the code integration.
-
-
-## Why you need to use the Design Checklist?
+## How I start the project?
 
 * Ensure all points are taken into consideration by the Creative Team
 * Having a document where Web Designers and Developers can rely to ensure a better communication and coherence in the way they interact.
