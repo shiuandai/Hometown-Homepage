@@ -58,44 +58,22 @@ Designing a homwtown homepage website requires following some rules and taking i
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <!-- Let empty at first -->
-    </div>
-    <div class="col-sm">
-      <!-- Let empty at first -->
-    </div>
-    <div class="col-sm">
-      <!-- Let empty at first -->
     </div>
   </div>
 </div>
 ```
 
-⚠️ *If you want to ensure that the grid and the width of the devices are respected, you may want to generate yourself a PSD template and that you will send it to the Web Designer.*
-
-__Additional Resources:__
-
-* 🛠 [Bootstrap Grid System][8] (v4)
-* 🛠 [Flexbox Grid][9]
-* 📖 [Don't Overthink It Grids | CSS-Tricks][10]
+⚠️ *Use the container to define which tags should be contained inside, they can be active when using the **flex-box**, it is a crucial method to foster the strcture building.* 
 
 **[⬆ back to top](#table-of-contents)**
 
 ### 1.2 - Colors
 
-![Colors](/images/colors.png)
+![Create a Color Palette](https://scrimba.com/links/hometown-palette) You can "SAVE" your color preference in your account.
 
-* [ ] **All colors used in the creatives are named** ($gray-light, $gray-dark, $green) or accordingly with their use ($body-background, $body-copy, $text-paragraph…). They can be exported in an [ACO file][11] (if use Photoshop or on a symbol page for Sketch) and shared with the developers.
+* [ ] **All colors used in the creatives are named** (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
 
-![Color Swatches](/images/color-swatches.jpg)
-
-* [ ] The different **color state** of some elements (like buttons, links, inputs...) are defined and worked in the context of a light or dark background and with a light or a dark text.
-
-* [ ] All or the most important/used **colors are accessible** in the design to allow a fluid navigation on the website/webapp.
-
-__Additional Resources:__
-* 🛠 [WCAG - Contrast Checker](https://contrastchecker.com/)
-* 🛠 [Color Safe - accessible web color combinations](http://colorsafe.co/)
-* 🛠 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
+* [ ] All or the most important/used **colors contrast** in the design to allow text with the background can be easily read.
 
 **[⬆ back to top](#table-of-contents)**
 
