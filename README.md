@@ -354,15 +354,7 @@ If you have any question or suggestion, don't hesitate to use Gitter or Twitter:
 
 ## Author
 
-**[David Dias](https://github.com/thedaviddias)**
-
-## Contributors
-
-This project exists thanks to all the people who [contribute!](.github/CONTRIBUTING.md)
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+**[Shiuan Dai](https://www.linkedin.com/in/shiuandai/)**
 
 All icons are provided by [Icons8](https://icons8.com/)
 
