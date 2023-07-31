@@ -1,4 +1,4 @@
-![Hometown-Homepage](/images/Background.jpg)
+![Hometown-Homepage](/image/Hometown_Homepage_banner)
 <h2 align="center">Hometown-Homepage</h2>
 
 <p align="center">
