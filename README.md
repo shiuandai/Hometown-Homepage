@@ -34,9 +34,9 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use basic H
 
 * Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0%3A1&mode=design&t=JhG1UWTiUmIeW14l-1)
 * Having a materials preparation document where I collect pictures/text information/text font/color to match a better visual communication and coherence in one page.
-* It's important to forget some important elements when you are pushed by short timelines
-* Avoid discovering issues after the creative team is already working on another project.
-* To show the complementary work between a Web Designer and a Front-End Developer
+* It's important to brainstorm the HTML structure before starting coding, this step helps me save the time.
+* Use the "DRY" concept (Don't Repeat Yourself), so that I learn from tailoring the developer's code and learn from it and Scrimba course.
+* To show the completed work between a Web and a template, I prefer refining the CSS code to make sure the project can align the design.
 
 ---
 
