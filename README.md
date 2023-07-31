@@ -69,7 +69,7 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ### 1.2 - Colors
 
-![Create a Color Palette](https://scrimba.com/links/hometown-palette) You can "SAVE" your color preference in your account.
+![Create a Color Palette](https://scrimba.com/links/hometown-palette) You can "SAVE" your color preference in your account. → [Color Palette](https://scrimba.com/links/hometown-palette)
 
 * [ ] **All colors used in the creatives are named** (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
 
@@ -81,7 +81,7 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ![Fonts](/images/fonts.png)
 
-Fonts are an essential part of every design, they shouldn’t be chosen without discernment. Choosing the wrong font for a project could have financial and legal impacts.
+Fonts are an essential part of every design.
 
 It is recommended to ask your client to buy these fonts to avoid possible future issues and take into consideration the condition of use. Some webfonts are limited in terms of pageviews and can’t be hosted ([Understanding Webfont Licensing Structures](https://aeolidia.com/understanding-webfont-licensing-structures/)).
 
