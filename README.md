@@ -49,12 +49,10 @@ Designing a homwtown homepage website requires following some rules and taking i
 ![Structure design](/images/grid-system.png)
 
 * [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
-	> ℹ️ [Guide Guide][6] is a plugin for Photoshop that can help you easily build your grid.
+	> ℹ️ [HTML] GET to know more about the definition. → [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-	> ℹ️ On Sketch, you can use the integrated “[Make Grid Tool][7]” to design your desired grid.
-
-* [ ] **Be familiar with the grid system** you’ll use on your project. Most of the time, some options (like alignment, offsetting, nesting…) are ignored by the developer and tend to be replaced by manual padding or margin unnecessarily.
-* [ ] Before working on each components of your website, you can **build every templates** used in the creatives only with the grid classes. Building the structure before everything else, will facilitate your work afterwards.
+* [ ] **Be familiar with the HTML** I’ll be familar with the HTML by learning more its <tag>. 
+* [ ] Before working on each website project, I can **build every templates** with my own strcutre concept. Building the structure before everything else, will facilitate my work afterwards.
 
 ```html
 <div class="container">
