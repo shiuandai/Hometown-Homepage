@@ -44,7 +44,7 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use basic H
 
 Designing a homwtown homepage website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
 
-### 1.1 - Grid system
+### 1.1 - Structure design
 
 ![Grid system](/images/grid-system.png)
 
@@ -330,18 +330,11 @@ The validation phase is when everything seems to be ready to be integrated. The 
 
 ## 5. - Before production
 
-Before launching your website, be sure to review all your pages using the [Front-End Checklist](https://frontendchecklist.io)!
+Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read.
 
 **[⬆ back to top](#table-of-contents)**
 
 ---
-
-## Translations
-
-The Front-End Checklist is also available in other languages. Thanks for all translators and their awesome work!
-
-* 🇨🇳 Chinese: [JohnsenZhou/Front-End-Design-Checklist](https://github.com/JohnsenZhou/Front-End-Design-Checklist)
-* 🇪🇸 Spanish: [eoasakura/Front-End-Design-Checklist](https://github.com/eoasakura/Front-End-Design-Checklist)
 
 ## Support
 
