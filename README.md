@@ -1,6 +1,5 @@
-# Hometown-Homepage
 ![Hometown-Homepage](/images/front-end-design-checklist-banner.jpg)
-<h2 align="center">Front-End Design Checklist</h2>
+<h2 align="center">Hometown-Homepage</h2>
 
 <p align="center">
   <em> The Design Checklist for Front-End Developers is an exhaustive list of elements which can help developers to analyse and understand web designs and ensure the quality of their Front-End development.</em>
