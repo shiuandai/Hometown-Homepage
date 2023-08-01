@@ -18,7 +18,7 @@
 
 ---
 
-> The **Hometown Homepage** is my first static website which I introduce my hometown spots and the brief information to visitors who can review from and knowing more Taiwan culture. Welcome to contact me if you need a local tour guide.
+> The **Hometown Homepage** is my first static website which I introduce my hometown spots and the brief information to visitors who can review from and knowing more Taiwanese culture. Welcome to contact me if you need a local tour guide.
 
 I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look on the → [My Hometown Homepage](https://shiuandai.github.io/Hometown-Homepage/).
 
