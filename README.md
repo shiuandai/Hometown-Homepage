@@ -85,7 +85,7 @@ It is recommended to organise the font size and style in the design process. The
 
 ### 1.4 - Publish files
 
-* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing web easily. The alternative is using Github Page,my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
+* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing web easily. The alternative is using Github Page, my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
 
 ## 2. - Pre-work phases
 
@@ -95,11 +95,11 @@ It is recommended to master **flex-box** concept, it usually combine with differ
 
 Define what condition to use the flex-box, it influences on how the content display.
 
-⚠️ *When use the flex-box, it is good to use property of "gap" rather than "margin".*
+⚠️ *When use the flex-box, it is good to use property of "gap" rather than "margin" to generate the gap.*
 
 ## 3. - Before production
 
-Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read.
+Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read for other programmer.
 
 **[⬆ back to top](#table-of-contents)**
 
