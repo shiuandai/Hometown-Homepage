@@ -53,7 +53,7 @@ Designing a homwtown homepage website requires following some rules and taking i
 </div>
 ```
 
-⚠️ *Use the container to define which tags should be contained inside, they can be active when using the **flex-box**, it is a crucial method to foster the strcture building.* 
+⚠️ *Use the "container" to define which tags should be contained inside, they perform "active" when using the **flex-box**, it is a crucial method to foster the web strcture building.* 
 
 **[⬆ back to top](#table-of-contents)**
 
