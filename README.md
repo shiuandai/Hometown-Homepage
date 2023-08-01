@@ -11,18 +11,10 @@
 	* [1.1 Structure Design](#11---grid-system)
 	* [1.2 Colors](#12---colors)
 	* [1.3 Fonts and texts](#13---fonts-and-texts)
-	* [1.4 Links and navigation](#14---links-and-navigation)
-	* [1.5 Images / Icons](#15---images--icons)
-	* [1.6 Forms and buttons](#16---forms-and-buttons)
-	* [1.7 Responsive Web Design](#17---responsive-web-design)
-	* [1.8 Style Guide and component approach](#18---style-guide-and-component-approach)
-	* [1.9 Delivery files](#19---delivery-files)
-* **[2. Analysis and pre-work phases](#2---analysis-and-pre-work-phases)**
-	* [2.1 Paper analysis](#21---paper-analysis)
-	* [2.2 Pre-development phase](#22---pre-development-phase)
-* **[3. Validation](#3---validation)**
-* **[4. Development phase](#4---development-phase)**
-* **[5. Before production](#5---before-production)**
+	* [1.4 Delivery files](#14---delivery-files)
+* **[2. Pre-work phases](#2---pre-work-phases)**
+	* [2.1 Refine the project using CSS](#21---refine-the-project-using-CSS)
+* **[3. Before production](#5---before-production)**
 
 ---
 
@@ -93,114 +85,25 @@ It is recommended to organise the font size and style in the design process. The
 
 ### 1.4 - Publish files
 
-* [ ] For all websites, the web designer needs to provide at least **2 PSD** (mobile, desktop and eventually tablet) or at least **1 Sketch file** which needs to be delivered with the dimension below (if you have Photoshop CC 2015 and above, I recommend using artboards).
+* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing web easily. The alternative is using Github Page,my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
 
-	> ℹ️ Some web designers could eventually create multiple PSD corresponding to each components used and import them in a single PSD as “smart layer”. In that case, you’ll have multiple PSD linked to one or two files. In the case of Sketch, since the **libraries** exist since version 47, it is possible to link multiples files with symbols ……..
+## 2. - Pre-work phases
 
-* [ ] The **creative files are cleaned** before delivering to developers (empty and unnecessary layer needs to be removed to avoid large files).
+### 2.1 - Refine the project using CSS
 
-* [ ] The **404 error** (and eventually the page 500 error) page were designed.
-* [ ] All **popins, popups and alert boxes** were designed and can be enable throw layers of compositions.
+It is recommended to master **flex-box** concept, it usually combine with different **Property** like **flex-direction: column; align-items: center;** .
 
-__Additional Resources:__
+Define what condition to use the flex-box, it influences on how the content display.
 
-* 📖 [Photoshop Etiquette: A Guide to Discernible Web Design](http://photoshopetiquette.com/)
+⚠️ *When use the flex-box, it is good to use property of "gap" rather than "margin".*
 
-#### Specific rules for PSD file:
-
-* [ ] **Layer compositions** are used to show each different pages, if multiple views are provided within the same PSD. It’s an easy way to avoid confusions and check that all elements are correctly organized.
-
-**[⬆ back to top](#table-of-contents)**
-
-## 2. - Analysis and pre-work phases
-
-![Analysis and phases](/images/phases.png)
-
-Before starting the analysis and the pre-work phases and after receiving the creative files, you need to check some important elements:
-
-* __*Which version of Photoshop, Sketch is used?*__
-  Some features are specific to some versions of Photoshop or Sketch. It is important to flag any issue regarding this as soon as possible.
-* __*Is the width of each PSD or artboard correct?*__
-  In case some space is added on each side of the design, check the exact width of the website.
-* __*Are the creatives using too much “box-shadow”, “linear or radial gradient”…?*__
-  Don’t forget the .... Effect which can have impacts on the browser painting performance.
-* __*Is a sitemap / breadcrumb provided to understand the architecture of all pages and their dependencies?*__
-* __*Does the website needs to have retina images?*__
-
-**[⬆ back to top](#table-of-contents)**
-
-### 2.1 - Paper analysis
-
-![Paper Analysis](/images/analysis.png)
-
-It is recommended **printing** some (or all) of the pages you have on an A3 format (or A4 if you don’t have this format). Because of the height of the page. you’ll probably need to print some designs on multiple pages.
-
-I can’t imagine a better way to start than analysing creatives on a paper with a pencil (or different colourful pencils chosen to highlight different type of information).
-
-1. Define the **structure of the pages**, the headers, the sections, the articles, main, footer outlining these on at least one printed page.
-
-2. Find all the **headings** that structured a page, ensure the `H1` is not on the logo and that the logical order is followed. Most of the time, the H1 for the homepage will be hidden with CSS but needs to keep its legitimate meaning. That analysis should be done with the help of a SEO specialist in case you have one in your team.
-
-3. Try to find and regroup **similar components** giving them an individual name regarding their functionality and not just their context. For example, naming a tab system “
-
-4. Most of the creative elements can be **done using CSS**. Today, it is not recommended to create any layout element using images. Any simple graphical element like buttons or borders should be done in CSS to avoid performance or scalability issues.
-
-5. Find some **possible lack of coherence**, in case a Styleguide was not provided by the creative team, it’s your responsibility to ensure that every graphic element belong to a possible category (Buttons, Typography, Sliders…). It’ll help you to create your own CSS / Sass architecture or to identify which component you’ll need from an identified CSS Framework.
-
-⚠️ *After the paper analysis phase, you can invite the creative team to use a tool like [InVision](https://www.invisionapp.com/), to facilitate the communication and exchange between the creative team and the developers. The possibility to comment directly on pages can be a time-saver and allow to keep a history of modifications and decisions.*
-
-### 2.2 - Pre-development phase
-
-* [ ] According to the specifications, **plugins needed were defined** in an early stage. Having a pre-list of possible plugins before starting the development can help the developer to stay focus and not spend too much time in doing research during the development phase. Obviously, some plugins may not perfectly fit and will be changed accordingly.
-
-__Additional Resources:__
-
-* 🛠 [Awesome JS][22]
-* 🛠 [BestOfJS][23]
-
-
-**[⬆ back to top](#table-of-contents)**
-
-## 3. - Validation
-
-The validation phase is when everything seems to be ready to be integrated. The client, in general, validate the creatives without waiting for any approval from the technical team. As exposed in the Design Checklist, it is essential that developers ensure the quality of the delivery before starting to code.
-
-## 4. - Development phase
-
-* [ ] All **medias can be cut and saved** before starting the development phase. That can help you to avoid back and forth between your creative software and your code editor.
-
-* [ ] **The image folder has a clear architecture** where you  arranged the layout's images. It is important to stay consistent between projects in general. Defining a structure for that folder and a naming convention can be helpful.
-
-
-  You can find an example of a possible structure with prefixes used to recognise each image appurtenance.
-
-```bash
-.
-└── images
-    ├── background
-    ├── banners
-    ├── icons
-    └── layout
-```
-
-* [ ] **A naming convention is used** like adding prefixes to differentiate types of images, all images used for background can be prefixed by `bg-`, icons by `icon-`, hero banners by `hero-` or `banner-` and so on.
-
-## 5. - Before production
+## 3. - Before production
 
 Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read.
 
 **[⬆ back to top](#table-of-contents)**
 
 ---
-
-## Support
-
-If you have any question or suggestion, don't hesitate to use Gitter or Twitter:
-
-* [Give an UP on Product Hunt](https://www.producthunt.com/posts/front-end-design-checklist)
-* [Chat on Gitter](https://gitter.im/Front-End-Checklist][28]/Front-End-Design-Checklist?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-* [Facebook](https://www.facebook.com/frontenddesignchecklist/)
-* [Twitter](https://twitter.com/thedaviddias)
 
 ## Author
 
