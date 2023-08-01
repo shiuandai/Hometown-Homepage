@@ -41,8 +41,8 @@ Designing a homwtown homepage website requires following some rules and taking i
 * [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
 	> ℹ️ [HTML] GET to know more about the definition. → [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-* [ ] **Be familiar with the HTML** I’ll be familar with the HTML by learning more its <tag>. 
-* [ ] Before working on each website project, I can **build every templates** with my own strcutre concept. Building the structure before everything else, will facilitate my work afterwards.
+* [ ] **Be familiar with the HTML Tag**. 
+* [ ] Before working on each website project, I can **build every templates** with my own strcuture concept. Building the structure before everything else, will facilitate my work afterwards.
 
 ```html
 <div class="container">
