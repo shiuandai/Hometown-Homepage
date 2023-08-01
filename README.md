@@ -46,7 +46,7 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ### 1.1 - Structure design
 
-![Structure design](/images/grid-system.png)
+![Structure design](/images/structure_design.png)
 
 * [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
 	> ℹ️ [HTML] GET to know more about the definition. → [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
