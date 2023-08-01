@@ -46,8 +46,6 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ### 1.1 - Structure design
 
-![Structure design](/images/structure-design.png)
-
 * [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
 	> ℹ️ [HTML] GET to know more about the definition. → [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -69,7 +67,7 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ### 1.2 - Colors
 
-![Create a Color Palette](https://scrimba.com/links/hometown-palette) You can "SAVE" your color preference in your account. → [Color Palette](https://scrimba.com/links/hometown-palette)
+You can "SAVE" your color preference in your account. → [Color Palette](https://scrimba.com/links/hometown-palette)
 
 * [ ] **All colors used in the creatives are named** (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
 
@@ -79,11 +77,9 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ### 1.3 - Fonts and texts
 
-![Fonts](/images/fonts.png)
-
 Fonts are an essential part of every design.
 
-It is recommended to ask your client to buy these fonts to avoid possible future issues and take into consideration the condition of use. Some webfonts are limited in terms of pageviews and can’t be hosted ([Understanding Webfont Licensing Structures](https://aeolidia.com/understanding-webfont-licensing-structures/)).
+It is recommended to organise the font size and style in the design process. There are several website where the designer can download the font.([Google font](https://fonts.google.com/)).
 
 * [ ] The fonts for desktop (TTF or OTF in general) and the webfonts, in **WOFF, WOFF2 and TTF format** were provided (in a Zip file or given access to the website where they were bought).
 	> ℹ️ TTF format for desktop is not the same than TTF for Web.
