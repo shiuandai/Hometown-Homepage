@@ -14,7 +14,7 @@
 	* [1.4 Delivery files](#14---delivery-files)
 * **[2. Pre-work phases](#2---pre-work-phases)**
 	* [2.1 Refine the project using CSS](#21---refine-the-project-using-CSS)
-* **[3. Before production](#5---before-production)**
+* **[3. Before production](#3---before-production)**
 
 ---
 
@@ -108,8 +108,6 @@ Before launching your website, be sure to review all your code and make sure the
 ## Author
 
 **[Shiuan Dai](https://www.linkedin.com/in/shiuandai/)**
-
-All icons are provided by [Icons8](https://icons8.com/)
 
 **[⬆ back to top](#table-of-contents)**
 
