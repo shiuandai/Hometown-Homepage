@@ -18,15 +18,15 @@
 
 ---
 
-> The **Hometown Homepage** is my first static website which I introduce my hometown spots and the brief information to visitors who can review from and knowing more Taiwanese culture. Welcome to contact me if you need a local tour guide.
+> The **Hometown Homepage** is my first static website in which I introduce my hometown spots and brief information to visitors who can review and knowing more about Taiwanese culture. Welcome to contact me if you need a local tour guide.
 
-I start the Scrimba Module 2 course- Web dev basics and learn how to use the basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look on the → [My Hometown Homepage](https://shiuandai.github.io/Hometown-Homepage/).
+I start the Scrimba Module 2 course- Web dev basics and learn how to use basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look at the → [My Hometown Homepage](https://shiuandai.github.io/Hometown-Homepage/).
 
 ## How I start the project?
 
 * Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0%3A1&mode=design&t=JhG1UWTiUmIeW14l-1)
 * Having a materials preparation document where I collect pictures/text information/text font/color to match a better visual communication and coherence in one page.
-* It's important to brainstorm the HTML structure before starting coding, this step helps me save the time.
+* It's important to brainstorm the HTML structure before starting coding, this step helps me save time.
 * Use the "DRY" concept (Don't Repeat Yourself), so that I learn from tailoring the developer's code and learn from it and Scrimba course.
 * To show the completed work between a Web and a template, I prefer refining the CSS code to make sure the project can align the design.
 
@@ -34,15 +34,15 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use the bas
 
 ## 1. - Design requirements
 
-Designing a homwtown homepage website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
+Designing a hometown homepage website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
 
 ### 1.1 - Structure design
 
-* [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
+* [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content should be grouped together to make sure it can be read clearly.
 	> ℹ️ [HTML] GET to know more about the definition. → [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 * [ ] **Be familiar with the HTML Tag**. 
-* [ ] Before working on each website project, I can **build every templates** with my own strcuture concept. Building the structure before everything else, will facilitate my work afterwards.
+* [ ] Before working on each website project, I can **build every template** with my own structure concept. Building the structure before everything else will facilitate my work afterward.
 
 ```html
 <div class="container">
@@ -53,7 +53,7 @@ Designing a homwtown homepage website requires following some rules and taking i
 </div>
 ```
 
-⚠️ *Use the "container" to define which tags should be contained inside, they perform "active" when using the **flex-box**, it is a crucial method to foster the web strcture building.* 
+⚠️ *Use the "container" to define which tags should be contained inside, they perform "active" when using the **flex-box**, it is a crucial method to foster the web structure building.* 
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -63,7 +63,7 @@ You can "SAVE" your color preference in your account. → [Color Palette](https:
 
 * [ ] **All colors used in the creatives are named** (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
 
-* [ ] All or the most important/used **colors contrast** in the design to allow text with the background can be easily read.
+* [ ] All of the most important/used **colors contrast** in the design to allow text with the background can be easily read.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -71,35 +71,35 @@ You can "SAVE" your color preference in your account. → [Color Palette](https:
 
 Fonts are an essential part of every design.
 
-It is recommended to organise the font size and style in the design process. There are several website where the designer can download the font.([Google font](https://fonts.google.com/)).
+It is recommended to organize the font size and style in the design process. There are several websites where the designer can download the font. ([Google font](https://fonts.google.com/)).
 
-* [ ] Using the technique **@font-face** in CSS, the link is embedded to the CSS. 
+* [ ] Using the technique **@font-face** in CSS, the link is embedded in the CSS. 
 
   __Resources:__
 	* 📖 [Using @font-face | CSS-Tricks](https://css-tricks.com/snippets/css/using-font-face/)
 
-* [ ] The **Web Safe Fonts** is an important concept. Web safe fonts are fonts that are pre-installed by many operating systems. While not all systems have the same fonts installed, you can use a web safe font stack to choose several fonts that look similar, and are installed on the various systems that you want to support.
+* [ ] The **Web Safe Fonts** is an important concept. Web-safe fonts are fonts that are pre-installed by many operating systems. While not all systems have the same fonts installed, you can use a web-safe font stack to choose several fonts that look similar and are installed on the various systems that you want to support.
 
 **[⬆ back to top](#table-of-contents)**
 
 
 ### 1.4 - Publish files
 
-* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing web easily. The alternative is using Github Page, my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
+* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing the web easily. The alternative is using Github Page, my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
 
 ## 2. - Pre-work phases
 
 ### 2.1 - Refine the project using CSS
 
-It is recommended to master **flex-box** concept, it usually combine with different **Property** like **flex-direction: column; align-items: center;** .
+It is recommended to master the **flex-box** concept, it usually combines with different **Property** like **flex-direction: column; align-items: center;** .
 
-Define what condition to use the flex-box, it influences on how the content display.
+Define what condition to use the flex-box, it influences how the content displayed.
 
-⚠️ *When use the flex-box, it is good to use property of "gap" rather than "margin" to generate the gap.*
+⚠️ *When using the flex-box, it is good to use the property of "gap" rather than "margin" to generate the gap.*
 
 ## 3. - Before production
 
-Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read for other programmer.
+Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read for another programmer.
 
 **[⬆ back to top](#table-of-contents)**
 
